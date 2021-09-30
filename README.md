@@ -1,6 +1,7 @@
 <div align="center">
 Seja bem vinda e bem vindo!
-  👋</div><br>
+✌️👋
+ </div><br>
 <div align="center">
 
 🌱 Atualmente estudando Flutter.
