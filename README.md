@@ -14,6 +14,8 @@ Seja bem vinda e bem vindo!
 </div>  
   <br>
   
+  🚀 Idiomas e ferramentas:  <br>
+
  <div>
   	<img width="130" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   	<img width="110" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
