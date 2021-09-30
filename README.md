@@ -1,5 +1,5 @@
 <div align="center">
-Seja bem vinda e bem vindo!
+#Seja bem vinda e bem vindo!
 ! 👋</div><br>
 <div align="center">
 
@@ -20,9 +20,9 @@ Seja bem vinda e bem vindo!
     <img width="100" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
     <img width="130" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 </div>  <br>
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/santosgabriel299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  
-  
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 
 
