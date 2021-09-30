@@ -1,14 +1,16 @@
 <div align="center">
 Seja bem vinda e bem vindo!
 ! 👋</div><br>
-- 🌱 Atualmente estudando Flutter
+<div align="center">
 
+🌱 Atualmente estudando Flutter
+</div><br>
 
 
 <div align="center">
   <a href="https://github.com/GabrielBento299">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBento299&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBento299&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=synthwave"/>
 </div>  
   
  <div aling="center">
