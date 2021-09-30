@@ -1,6 +1,6 @@
 <div align="center">
-#Seja bem vinda e bem vindo!
-! 👋</div><br>
+Seja bem vinda e bem vindo!
+  👋</div><br>
 <div align="center">
 
 🌱 Atualmente estudando Flutter
@@ -9,11 +9,12 @@
 
 <div align="center">
   <a href="https://github.com/GabrielBento299">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBento299&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBento299&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>  
+  <br>
   
- <div aling="center">
+ <div>
   	<img width="130" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   	<img width="110" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <img width="160" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
