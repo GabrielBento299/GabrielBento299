@@ -3,7 +3,10 @@ Seja bem vinda e bem vindo!
   👋</div><br>
 <div align="center">
 
-🌱 Atualmente estudando Flutter
+🌱 Atualmente estudando Flutter.
+  
+📚 Em eterno aprendizado.
+
 </div><br>
 
 
