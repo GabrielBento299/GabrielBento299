@@ -19,7 +19,7 @@
 </div>  
   <br>
   
-  🚀 Idiomas e ferramentas:  <br>
+###  🚀 Idiomas e ferramentas:  <br>
 
  <div>
   	<img width="130" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
