@@ -1,11 +1,11 @@
- <img src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="600" height="350" />
+ <img   src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="650" height="400" />
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Seja bem vinda e bem vindo! </h2>
 
 
  </div><br>
 <div align="center">
 
-🌱 Atualmente estudando Flutter.
+🌱 Atualmente estou aprendendo Flutter.
   
 📚 Em eterno aprendizado.
 
