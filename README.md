@@ -14,7 +14,7 @@
 
  
   <a href="https://github.com/GabrielBento299">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=gruvbox"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBento299&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
  </div>  
   <br>
