@@ -1,5 +1,5 @@
  
-<img align='right'  src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="400" height="300" />
+<img align='center'  src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="900" height="450" />
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Seja bem vinda e bem vindo! </h2>
  
 
@@ -28,12 +28,10 @@
     <img width="100" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
     <img width="130" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 </div>  <br>
-
-📱 Contato:  
-
- <a href="https://www.linkedin.com/in/santosgabriel299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
  
+### 📱 Contato:  <br>
+  <a href="https://www.linkedin.com/in/santosgabriel299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
  
 
 
