@@ -4,8 +4,8 @@
  
 
  </div><br>
- 
- 🌱 Atualmente estou aprendendo Flutter.
+  
+🌱 Atualmente estou estudando desenvolvimento mobile com Flutter.
   
 📚 Em eterno aprendizado.
 
