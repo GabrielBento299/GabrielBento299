@@ -5,7 +5,7 @@
 
  </div><br>
  
-   
+🎓 Análise e Desenvolvimento de Sistemas
 🌱 Atualmente estou aprendendo Flutter.
   
 📚 Em eterno aprendizado.
