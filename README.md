@@ -5,13 +5,13 @@
 
  </div><br>
   
-🌱 Atualmente estou estudando desenvolvimento mobile com Flutter.
+🌱 Estou estudando desenvolvimento  Web: Html - Css- Javascript- React. Tenho conhecimento em Mobile com Flutter - Dart
   
 📚 Em eterno aprendizado.
 
 🎓 Análise e Desenvolvimento de Sistemas
 
-
+ 
 </div><br>
 
  
