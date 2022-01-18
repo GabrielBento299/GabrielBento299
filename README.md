@@ -6,10 +6,11 @@
  </div><br>
   
 🌱 Estou estudando desenvolvimento  Web: Html - Css- Javascript- React. Tenho conhecimento em Mobile com Flutter - Dart
-  
+
+🎓 Análise e Desenvolvimento de Sistemas.
+
 📚 Em eterno aprendizado.
 
-🎓 Análise e Desenvolvimento de Sistemas
 
  
 </div><br>
