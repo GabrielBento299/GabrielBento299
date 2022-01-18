@@ -1,13 +1,14 @@
  
 <h2 align="center">  <img src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="550" height="350" </h2>
-<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Seja bem vinda e bem vindo! </h2>
+<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Hello Word! </h2>
  
 
  </div><br>
   
-🌱 Estou estudando desenvolvimento  Web: Html - Css- Javascript- React. Tenho conhecimento em Mobile com Flutter - Dart
+🌱 Atualmenete estou estudando HTML, CSS, JavaScript e React.
+   Tenho conhecimento em Mobile com flutter, dart.
 
-🎓 Análise e Desenvolvimento de Sistemas.
+🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
 📚 Em eterno aprendizado.
 
