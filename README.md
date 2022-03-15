@@ -5,8 +5,7 @@
 
  </div><br>
   
-🌱 Atualmenete estou estudando HTML, CSS, JavaScript e React.
-   Tenho conhecimento em Mobile com flutter.
+🌱 Tenho conhecimentos em Hmtl, Css, JavaScript e React, atualamente estou estudando php.
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
