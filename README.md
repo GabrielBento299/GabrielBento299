@@ -5,7 +5,7 @@
 
  </div><br>
   
-🌱 Tenho conhecimentos em Hmtl, Css, JavaScript e React, atualamente estou estudando php.
+🌱 Tenho conhecimento em Hmtl, Css, JavaScript e React, atualamente estou estudando php.
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
