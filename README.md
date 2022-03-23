@@ -1,21 +1,25 @@
  
-<h2 align="center">  <img src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="550" height="350" </h2>
+ <div align="center">
+  <img src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="750" height="450" />
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Hello Word! </h2>
+ </div>
  
-
+<hr>
+ 
  </div><br>
-  
-🌱 Tenho conhecimento em Hmtl, Css, JavaScript e React, atualamente estou estudando php.
+ 
+Sou o gabriel, tenho 21 anos, no ano de 2021, tive interesse pela área de desenvolvimento, desde então venho estudando, no final de 2021 começei a faculdade de analise e desenvolvimento de sistemas.<br>
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas.
+*  🌱 Tenho conhecimento em Hmtl, Css, JavaScript e React, atualamente estou estudando php.
+*  🎓 Cursando Análise e Desenvolvimento de Sistemas.
+*  💬 Sugestões e críticas construtivas, são sempre muito bem-vindas!
+*  📚 Em eterno aprendizado.
 
-📚 Em eterno aprendizado.
-
-
+ 
  
 </div><br>
 
- 
+
   <a href="https://github.com/GabrielBento299">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=gruvbox"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBento299&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
