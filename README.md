@@ -10,7 +10,7 @@
  
 Sou o gabriel, tenho 21 anos, no ano de 2021, tive interesse pela área de desenvolvimento, desde então venho estudando, no final de 2021 começei a faculdade de analise e desenvolvimento de sistemas.<br>
 
-*  🌱 Tenho conhecimento em Hmtl, Css, JavaScript e React.
+*  🌱 Tenho conhecimento em Hmtl, Css, JavaScript, React.js  e React-native.
 *  🎓 Cursando Análise e Desenvolvimento de Sistemas.
 *  💬 Sugestões e críticas construtivas, são sempre muito bem-vindas!
 *  📚 Em eterno aprendizado.
