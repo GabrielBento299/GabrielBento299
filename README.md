@@ -1,25 +1,25 @@
  
- <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="750" height="450" />
-<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Hello Word </h2>
- </div>
+  <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Hello Word </h2>
+</div>
  
 <hr>
+<br />
 
-</div><br />
- 
-Olá, sou o Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela área de tecnologia. Nesse mesmo ano comecei a cursar a faculdade de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul. Tenho me dedicado a fazer cursos online e projetos pessoas, para ampliar meus conhecimentos e habilidades. Possuo conhecimento e experiência como desenvolvedor front-end, o que me ajudará com automações de testes, e a trabalhar de forma colaborativa com as equipes de desenvolvimento.
+Olá, sou o Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela área de tecnologia. Nesse mesmo ano comecei a cursar a faculdade de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul. Tenho me dedicado a fazer cursos online e projetos pessoas, para ampliar meus conhecimentos e habilidades. Possuo conhecimento e experiência como desenvolvedor front-end, o que me ajudará com automações de testes, e trabalhar de forma colaborativa com as equipes de  negócio e de desenvolvimento.
 
 *  🌱 Tenho conhecimento em Hmtl, Css, JavaScript, Java, cypress, Selenium, postman.
 *  🎓 Cursando Análise e Desenvolvimento de Sistemas.
 *  💬 Sugestões e críticas construtivas, são sempre muito bem-vindas!
 *  📚 Em eterno aprendizado.
 
- </div> <br />
+<br />
 
+<div> 
   <a href="https://github.com/GabrielBento299">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=gruvbox"/>
-  </div>  <br />
+</div> <br />
   
  ###  🚀 My Skills  <br />
 
@@ -31,13 +31,14 @@ Olá, sou o Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela ár
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
- </div>  <br 
+ </div> <br />
  
 ### 📱 Contato:  <br />
 
+<div>
   <a href="https://my-portifolio-flax.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" width="150" target="_blank"></a>
-  
   <a href="https://www.linkedin.com/in/santosgabriel299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" width="150" target="_blank"></a>
+</div>
 
  Obrigado pela visita (:
 
