@@ -1,14 +1,14 @@
  
  <div align="center">
   <img src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif"  width="750" height="450" />
-<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Hello Word! </h2>
+<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> Hello Word </h2>
  </div>
  
 <hr>
+
+</div><br />
  
- </div><br />
- 
-Olá, Me chamo Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela área de tecnologia. Nesse mesmo ano comecei a cursar a faculdade de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, e também tenho me dedicado a fazer cursos pela internet para ampliar meus conhecimentos e habilidades. Possuo conhecimento e experiência como front end, o que me ajudará a lidar melhor com testes de software e a trabalhar de forma colaborativa com as equipes de desenvolvimento.
+Olá, sou o Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela área de tecnologia. Nesse mesmo ano comecei a cursar a faculdade de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul. Tenho me dedicado a fazer cursos online e projetos pessoas, para ampliar meus conhecimentos e habilidades. Possuo conhecimento e experiência como desenvolvedor front-end, o que me ajudará com automações de testes, e a trabalhar de forma colaborativa com as equipes de desenvolvimento.
 
 *  🌱 Tenho conhecimento em Hmtl, Css, JavaScript, Java, cypress, Selenium, postman.
 *  🎓 Cursando Análise e Desenvolvimento de Sistemas.
@@ -16,7 +16,6 @@ Olá, Me chamo Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela 
 *  📚 Em eterno aprendizado.
 
  </div> <br />
-
 
   <a href="https://github.com/GabrielBento299">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBento299&layout=compact&langs_count=7&theme=gruvbox"/>
