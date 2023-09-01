@@ -7,7 +7,7 @@
 <hr>
 <br />
 
-👨‍💻 Olá, sou o Gabriel Bento, tenho 22 anos. No ano de 2021 tive interesse pela área de tecnologia. Nesse mesmo ano comecei a cursar a faculdade de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul. Tenho me dedicado a fazer cursos online e projetos pessoas, para ampliar meus conhecimentos e habilidades. Possuo conhecimento e experiência como desenvolvedor front-end, o que me ajudará com automações de testes, e trabalhar de forma colaborativa com as equipes de  negócio e de desenvolvimento.
+👨‍💻 Olá, sou o Gabriel, tenho 22 anos. No ano de 2021 tive interesse pela área de tecnologia. Nesse mesmo ano comecei a cursar Análise e Desenvolvimento de Sistemas. Tenho me dedicado a fazer cursos online e projetos pessoais, para ampliar meus conhecimentos e habilidades. Possuo conhecimento e experiência como desenvolvedor front-end, o que me ajudará com automações de testes, e trabalhar de forma colaborativa com as equipes de negócios e de desenvolvimento.
 
 *  🌱 Meus conhecimentos: HTML, CSS, JavaScript, Cypress, Selenium, Sql, Postman.
 *  🎓 Cursando Análise e Desenvolvimento de Sistemas.
